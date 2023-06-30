@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Iyanu Sam</h1>
 <h3 align="left">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **react projects of all kinds**
+- 🔭 I’m currently working on **Website for an author**
 
 - 🌱 I’m currently learning **React JS and API integrations**
 
