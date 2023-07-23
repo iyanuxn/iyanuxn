@@ -69,7 +69,4 @@
 </div>
 
 ###
-
-<img src="[https://raw.githubusercontent.com/iyanuxn/iyanuxn/output/snake.svg](https://github.com/iyanuxn/iyanuxn/blob/main/.github/workflows/snake.yml)https://github.com/iyanuxn/iyanuxn/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
-
 ###
