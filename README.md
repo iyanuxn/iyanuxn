@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en" alt="iyanuxn" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)</p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?iyanuxn=DenverCoder1"/></a></p>
