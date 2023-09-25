@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en" alt="iyanuxn" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark)
