@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en" alt="iyanuxn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark)https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark" alt="iyanuxn" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a></p>
