@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyanuxn&show_icons=true&theme=dark&locale=en&layout=compact" alt="iyanuxn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en" alt="iyanuxn" /></p>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark)
