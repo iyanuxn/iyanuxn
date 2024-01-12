@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Iyanuoluwa</h1>
+<h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **cryptocurrency to fiat extension**
+- 🔭 I’m currently working on **react projects of all kinds**
 
-- 🌱 I’m currently learning **Next JS and API integrations**
+- 🌱 I’m currently learning **Next JS, GSAP**
 
 - 👯 I’m looking to collaborate on **any react project that seems interesting**
 
@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iyanuxn&show_icons=true&theme=dark&locale=en&layout=compact" alt="iyanuxn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iyanuxn&show_icons=true&theme=dark&locale=en" alt="iyanuxn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iyanuxn&theme=dark" alt="iyanuxn" /></p>
