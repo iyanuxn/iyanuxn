@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **react projects of all kinds**
 
-- 🌱 I’m currently learning **Next JS and GSAP**
+- 🌱 I’m currently learning **GSAP**
 
 - 👯 I’m looking to collaborate on **any react project that seems interesting**
 
