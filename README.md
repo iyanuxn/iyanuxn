@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
+<h1 align="center">Hi, I'm Iyanuoluwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 - 🔭 I’m currently working on **react projects of all kinds**
