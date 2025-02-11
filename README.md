@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **GSAP and fluid animations**
 
-- 👯 I’m looking to collaborate on **any react project that seems interesting**
-
 - 👨‍💻 All of my projects are available at [https://iyanuxn.github.io/portfolio-v1/](https://iyanuxn.github.io/portfolio-v1/)
 
 - 📫 How to reach me **iyanuxn@gmail.com**
