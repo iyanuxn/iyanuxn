@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Iyanuoluwa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **GSAP and fluid animations**
+- 🌱 I’m currently learning **Fluid animations**
 
-- 👨‍💻 All of my projects are available at [https://iyanuxn.github.io/portfolio-v1/](https://iyanuxn.github.io/portfolio-v1/)
+- 👨‍💻 All of my projects are available at [https://iyanusama.xyz/](https://iyanusama.xyz/)
 
 - 📫 How to reach me **iyanuxn@gmail.com**
 
